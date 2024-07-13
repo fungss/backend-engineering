@@ -1,5 +1,5 @@
 # 00-echo
-A simple client-server application to practice socket relating concepts bind, connect, listen, accept, and close.
+A simple client-server application to practise socket programming concepts.
 
 ## Reference
 1. [Defer in golang](https://www.youtube.com/watch?v=jiy584-vv38) </br>
