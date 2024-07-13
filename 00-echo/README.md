@@ -1,6 +1,18 @@
 # 00-echo
 A simple client-server application to practise socket programming concepts.
 
+To run the application, first spin up the server
+
+```
+go run ./echo-server.go
+```
+
+Then in a new terminal, run the below
+
+```
+go run ./echo-client.go
+```
+
 ## Reference
 1. [Defer in golang](https://www.youtube.com/watch?v=jiy584-vv38) </br>
 defer move the line to the end of the program in a LIFO manner.
