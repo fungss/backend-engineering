@@ -10,7 +10,7 @@ go run ./echo-server.go
 Then in a new terminal, run the below
 
 ```
-go run ./echo-client.go
+go run ./echo-client.go '<your message>'
 ```
 
 ## Reference
